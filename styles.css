@@ -1,0 +1,162 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;800");
+@import url("https://api.fontshare.com/css?f[]=inter@400,500,600,800&display=swap");
+
+p,
+ol,
+ul {
+  margin: 0px;
+}
+
+button {
+  padding: 0px;
+}
+
+ol,
+ul {
+  padding-inline-start: 1.5em;
+}
+
+.home-principal-home-principal {
+  text-align: left;
+  font-family: Inter;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  overflow: clip;
+  background-color: rgba(255, 255, 255, 1);
+  box-sizing: border-box;
+  height: 489px;
+  width: 1024px;
+}
+
+.home-principal-home-1x {
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  display: flex;
+  overflow: clip;
+  background-color: rgba(225, 226, 231, 1);
+  box-sizing: border-box;
+  height: 100%;
+}
+
+.home-principal-rectangle-25x {
+  width: 100%;
+  align-items: flex-end;
+  justify-content: flex-end;
+  display: flex;
+  background-color: rgba(238, 238, 238, 1);
+  position: relative;
+  padding-left: 597px;
+  padding-bottom: 34px;
+  padding-top: 91px;
+  box-sizing: border-box;
+  height: 100%;
+}
+
+.home-principal-layout-2 {
+  width: 100%;
+}
+
+.home-principal-monalisa-96e-922062x {
+  background-size: cover;
+  background-position: center;
+  background-image: url(https://uortjlczjmucmpaqqhqm.supabase.co/storage/v1/object/public/firejet-converted-images/images/9fe79be1c16df1349ff0e3a423f9deec7666ce4f.webp);
+  box-sizing: border-box;
+  height: 364px;
+  width: 427px;
+}
+
+.home-principal-layout-3 {
+  width: 100%;
+}
+
+.home-principal-homem-de-ferro-1x {
+  bottom: 13px;
+  right: 201px;
+  background-size: cover;
+  background-position: center;
+  background-image: url(https://uortjlczjmucmpaqqhqm.supabase.co/storage/v1/object/public/firejet-converted-images/images/5359c753bcd0d1f5418035870f931f814c16c4f6.webp);
+  position: absolute;
+  box-sizing: border-box;
+  height: 385px;
+  width: 385px;
+}
+
+.home-principal-layout-4 {
+  font-weight: 600;
+  color: rgba(255, 255, 255, 1);
+  width: 100%;
+}
+
+.home-principal-rectangle-24x {
+  border-radius: 15px;
+  bottom: 71px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  background-color: rgba(52, 154, 62, 1);
+  filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.25));
+  left: 79px;
+  position: absolute;
+  padding-right: 60px;
+  padding-left: 60px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  box-sizing: border-box;
+  height: 56px;
+  width: 250px;
+}
+
+.home-principal-vote-agora {
+  width: 130px;
+  height: 26px;
+  line-height: 1.09;
+  font-size: 24px;
+}
+
+.home-principal-layout-5 {
+  font-weight: 800;
+  color: rgba(0, 66, 12, 1);
+}
+
+.home-principal-aberta-avotao-par {
+  line-height: 1.09;
+  font-size: 32px;
+  position: absolute;
+  top: 125px;
+  left: 79px;
+  width: 417px;
+  height: 111px;
+}
+
+.home-principal-layout-6 {
+  font-weight: 500;
+  color: rgba(115, 115, 115, 1);
+}
+
+.home-principal-aberta-avotao-par-1 {
+  bottom: 191px;
+  line-height: 1.09;
+  font-size: 16px;
+  position: absolute;
+  left: 79px;
+  width: 410px;
+  height: 54px;
+}
+
+.home-principal-layout-7 {
+  width: 100%;
+}
+
+.home-principal-ifrocol-lateral-curto-1x {
+  background-size: cover;
+  background-position: center;
+  background-image: url(https://uortjlczjmucmpaqqhqm.supabase.co/storage/v1/object/public/firejet-converted-images/images/6f39097c6f1b478fb28c120cf918f40f1141c684.webp);
+  position: absolute;
+  top: 27px;
+  left: 79px;
+  box-sizing: border-box;
+  height: 44px;
+  width: 159px;
+}
